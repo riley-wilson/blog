@@ -1,0 +1,22 @@
+---
+title: Thoughts on slowness
+date: '2019-05-03'
+---
+
+There’s [plenty](https://www.nytimes.com/2019/04/29/smarter-living/the-case-for-doing-nothing.html) of material out there that tells us to take our foot off the gas and apply the breaks, or at least coast. In fact, so much has been written about “taking a breath” or “reflecting” that the terms are in danger of losing their potency. We all know how mentally and physically damaging it is to be busy all of the time, but my own anecdotal evidence doesn’t support anyone taking this advice to heart among the surfeit of articles/podcasts/talks telling us chill for a second.
+
+This is a shame because while busyness may make us better at something in some narrow sense, I think it makes us less interesting on the whole. When I am my busiest, I understand I am not a person capable of having a good conversation with anyone, not necessarily for lack of time, but mental resources. My mind is always elsewhere, and this makes me about as engaging conversationally as a distracted cat or someone desperately trying resist the effects of anesthesia.
+
+Yet, this post is about slowness, not busyness. The two are related, for sure, but I’d like to talk about the two types of slowness I have observed.
+
+First is a kind of phenomenal slowness.[^1] This is the sort you may experience lounging by the pool on a vacation, or just after you’ve woken up to a damp foggy morning while camping. It is characterized by feeling as if the world has actually slowed down, or you are in such a state that your corner of it is moving at a suitable pace regardless of what’s happening elsewhere. You can also describe this as the feeling that accompanies relaxation, content boredom, or general downtime. Crucially, it is not the same as grogginess or exhaustion, two other states in which we may feel “slow.” Phenomenal slowness is always a welcome feeling. I imagine it’s the state monks and people that have flip phones live in.
+
+The second type is historical slowness. Historical slowness is the fact that most important things happen very slowly relative to our own lives. These things can have global significance, such as shifting demographics, the formation of national policy, or wars. We’re still attempting to [desegregate](https://www.nytimes.com/2019/04/29/smarter-living/the-case-for-doing-nothing.html) schools more than sixty years after Brown v Board of Education, and religious influences from as far back as the [19th century](https://economics.ucr.edu/seminars_colloquia/2013-14/economic_theory/Mantovanelli%20paper%20for%202%204%2014%20seminar.pdf) are able to influence current levels of literacy.[^2] Rome wasn’t built in a day, and even on a personal level, neither are relationships, bodies of knowledge, or skills. Friendships are created with consistent interaction over sustained periods of time. Trust is built much the same way. Likewise, we don’t skim a Wikipedia page and have any deep knowledge on a particular subject. That takes lots of reading, practice, reflection, and time.
+
+Phenomenal slowness is a mental state and historical slowness is a concept, but I think there’s a relationship between them. Being familiar with historical slowness can make you more likely to experience its phenomenal cousin. Recognizing everything important moves slowly, even things in your own life, releases pressure on your time. If the maximum rate important things can move during a given stretch of time is low, then there is no reason to use a lot of that time for the important thing. It is futile, even irrational to expend more time. Historical slowness dictates that things only move so fast, so you’re better off doing other activities, like those that lead to phenomenal slowness. Taking a walk or a break can be the direct the result of the knowledge that the opportunity cost of your time isn’t all that high.
+
+It’s possible you can have historical slowness without phenomenal slowness, or vice-versa, but I do think one begets the other. Overall, I think slowness in all its forms is an underrated concept, no matter how many NYTimes smarter living stories are written on how we need to chill the hell out.
+
+[^1]: Phenomenal in the sense it is perceived through experience.
+
+[^2]: There’s another paper I remember that studied the placement of churches in (I think) 17th century Brazil or another Latin American country and established a causal relationship between those institutions and contemporary earnings/literacy. I can’t find it at the moment, but I think it’s another good example.
