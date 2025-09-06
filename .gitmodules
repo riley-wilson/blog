@@ -1,0 +1,4 @@
+[submodule "rileyblog/public"]
+	path = rileyblog/public
+	url = https://github.com/riley-wilson/riley-wilson.github.io.git
+	branch = main

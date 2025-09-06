@@ -1,0 +1,56 @@
+---
+title: Words
+---
+
+- Susurrus 
+    - Whispers
+- Ursine
+    - Of bears
+- Haruspex 
+    - Ancient Roman priest specialized in reading omens from entrails
+- Abseil
+    - Rappel 
+- Sessile 
+    - Fixed in place
+- Recrudesce
+    - Recurrence
+- Treacle
+    - Obsequiousness
+- Arriviste
+    - A selfish parvenu 
+- Mésalliance
+    - A disadvantageous marriage
+- Apotropaic
+    - The power to avert bad luck
+- Manqué
+    - Having failed to achieve potential
+- Autochthonous 
+    - Indigenous 
+- Bosky
+    - Wooded
+- Prodrome
+    - An early symptom of disease
+- Detumescense 
+    - The process of releasing tension
+- Pusillaniumous
+    - Showing cowardice
+- Orison
+    - A prayer
+- Lucre
+    - Money, dishonestly acquired
+- Paramour
+    - Lover of one married. 
+- Peccadillo
+    - A small sin
+- Vatic 
+    - Related to predictions
+- Organon
+    - An instrument of thought
+- Apposite
+    - Appropriate
+- Swingeing 
+    - Severe, excessive
+- Tetchy
+    - Irascible 
+- Mulct
+    - To extract via tax

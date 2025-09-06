@@ -1,0 +1,5 @@
+baseURL = 'http://riley-wilson.github.io/'
+languageCode = 'en-us'
+title = 'Textures'
+
+theme = 'hugo-xmin'
