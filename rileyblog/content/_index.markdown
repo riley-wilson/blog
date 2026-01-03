@@ -8,11 +8,13 @@ menu: main
 
 ### _Fiat Lux_ 
 
-![Firenze](/cathedral.jpg#floatright)
 
 - [About](/about/)
 - [Quotes](/quotes/)
 - [Words](/words/)
-- [Things I consume](/read/)
+- [Books](https://www.notion.so/Riley-s-public-bookshelf-2892cb65fd9f80568b2be48fd152e96a?source=copy_link)
+- [Non-books](/read/)
 
-If I write something confusing, I'm confused. 
+
+
+Citius, Altius, Fortius - Communiter

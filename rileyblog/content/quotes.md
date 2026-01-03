@@ -101,7 +101,31 @@ title: Quotes
 
 -Rafael Nadal
 
+>I hereby renounce the right to complacency,
+>
+>and vow lifelong to take
+>
+>only what minimum of leisure
+>
+>is necessary to my productivity,
+>
+>viewing health, happiness, rest, and play
+>
+>as means, not ends, and that,
+>
+>while Utopia provides my needs,
+>
+>I will commit the full produce of my labors
+>
+>to our collective effort
+>
+>to redirect the path of human life
+>
+>away from death
+>
+>and toward the stars.
 
+-The Utopian Oath
 
 
 

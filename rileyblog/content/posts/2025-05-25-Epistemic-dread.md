@@ -44,4 +44,4 @@ Overcoming these in any domain is probably the same. You start by being lucky. M
 
 [^my_serve]: I have memories of my Dad carefully setting my grip in the correct position before we practiced serves. The new grip was so foreign and useless to me I would switch it on the backswing so I'd make contact with the incorrect one. This rebellion lasted ~5 minutes before my Dad got wise.
 
-[^inheritence]: I explicitly think of tennis as my inheritence and plan to pass it to my children as such. 
+[^inheritence]: I explicitly think of tennis as my inheritence and plan to pass it to my children as such.  
