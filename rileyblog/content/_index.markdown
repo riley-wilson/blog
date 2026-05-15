@@ -6,8 +6,6 @@ menu: main
 
 # Riley Wilson
 
-### _Fiat Lux_ 
-
 
 - [About](/about/)
 - [Quotes](/quotes/)
